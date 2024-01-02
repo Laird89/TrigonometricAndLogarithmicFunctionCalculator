@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\Laird_Chris_Assignment1\Laird_Chris_Assignment1\bin\Debug\Laird_Chris_Assignment1.exe.config
+C:\Users\chris\source\repos\Laird_Chris_Assignment1\Laird_Chris_Assignment1\bin\Debug\Laird_Chris_Assignment1.exe
+C:\Users\chris\source\repos\Laird_Chris_Assignment1\Laird_Chris_Assignment1\bin\Debug\Laird_Chris_Assignment1.pdb
+C:\Users\chris\source\repos\Laird_Chris_Assignment1\Laird_Chris_Assignment1\obj\Debug\Laird_Chris_Assignment1.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Laird_Chris_Assignment1\Laird_Chris_Assignment1\obj\Debug\Laird_Chris_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Laird_Chris_Assignment1\Laird_Chris_Assignment1\obj\Debug\Laird_Chris_Assignment1.exe
+C:\Users\chris\source\repos\Laird_Chris_Assignment1\Laird_Chris_Assignment1\obj\Debug\Laird_Chris_Assignment1.pdb
